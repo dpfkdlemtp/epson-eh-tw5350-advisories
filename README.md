@@ -20,7 +20,7 @@ Kwang-Ryeol Kim, Won-Been Im, Yu-Taek Jun, Tae-Hoon Ha.
 ## Disclosure timeline
 
 - 2021-11: Vulnerabilities discovered and internally documented.
-- 2021-11: Reported to Epson.
+- 2021: Reported to Epson.
 - 2021-12-21: CVE IDs assigned by MITRE (ticket scr1172475), pending
   publication.
 - 2026: Public advisories published to complete the CVE record publication
