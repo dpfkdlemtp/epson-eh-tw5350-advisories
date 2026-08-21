@@ -17,12 +17,12 @@ All three records are now published on the CVE List.
 
 B-BEAM-BOB, KITRI Best of the Best (BoB):
 
-- Tae-Hoon Ha
+- Tae-Hoon Ha ([@dpfkdlemtp](https://github.com/dpfkdlemtp))
 - Jae-Yong Lee
-- Seung-Min Kang
-- Kwang-Ryeol Kim
-- Won-Been Im
-- Yu-Taek Jun
+- Seung-Min Kang ([@tmdals010126](https://github.com/tmdals010126))
+- Kwang-Ryeol Kim ([@k07713](https://github.com/k07713))
+- Won-Been Im ([@D0b6ywb](https://github.com/D0b6ywb))
+- Yu-Taek Jun ([@r3dzone](https://github.com/r3dzone))
 
 ## Disclosure timeline
 
