@@ -6,3 +6,4 @@ All members contributed to discovery, analysis and reporting of the three
 vulnerabilities documented in this repository.
 
 - Tae-Hoon Ha ([@dpfkdlemtp](https://github.com/dpfkdlemtp))
+- Seung-Min Kang ([@tmdals010126](https://github.com/tmdals010126))
