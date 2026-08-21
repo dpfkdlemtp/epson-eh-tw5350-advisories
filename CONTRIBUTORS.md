@@ -5,3 +5,4 @@ team B-BEAM-BOB during the KITRI Best of the Best (BoB) program in 2021.
 All members contributed to discovery, analysis and reporting of the three
 vulnerabilities documented in this repository.
 
+- Tae-Hoon Ha ([@dpfkdlemtp](https://github.com/dpfkdlemtp))
