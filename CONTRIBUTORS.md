@@ -1,0 +1,7 @@
+# Contributors
+
+Vulnerability research on the Epson EH-TW5350 projector was carried out by
+team B-BEAM-BOB during the KITRI Best of the Best (BoB) program in 2021.
+All members contributed to discovery, analysis and reporting of the three
+vulnerabilities documented in this repository.
+
