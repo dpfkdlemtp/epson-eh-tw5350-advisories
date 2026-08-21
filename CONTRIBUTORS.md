@@ -8,3 +8,4 @@ vulnerabilities documented in this repository.
 - Tae-Hoon Ha ([@dpfkdlemtp](https://github.com/dpfkdlemtp))
 - Seung-Min Kang ([@tmdals010126](https://github.com/tmdals010126))
 - Kwang-Ryeol Kim ([@k07713](https://github.com/k07713))
+- Won-Been Im ([@D0b6ywb](https://github.com/D0b6ywb))
